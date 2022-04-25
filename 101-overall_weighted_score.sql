@@ -1,2 +1,0 @@
--- creates a stored procedure ComputeOverallWeightedScoreForUsers
--- that computes and store the overall weighted score for all students.
